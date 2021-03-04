@@ -5,6 +5,8 @@ XML Serializer/Deserializer for Apache Hive
 
 For more information and samples of usage see https://github.com/dvasilen/Hive-XML-SerDe/wiki/XML-data-sources
 
+forked from [https://github.com/dvasilen/Hive-XML-SerDe](https://github.com/dvasilen/Hive-XML-SerDe),rebuild with hive 2.3.7,hadoop 2.7.4,and update doc.
+
 See also 
 
 1. https://github.com/dvasilen/Hive-XML-SerDe-VTD for VTD-XML based processor. When used with Hive XML SerDe it can provide significant performance  gains.
